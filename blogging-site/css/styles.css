@@ -1,10 +1,14 @@
 .important{
   color: red;
   font-style: italic;
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
 
 .moreImportant{
   color: green;
   font-family: Arial;
   font-size: medium;
+  margin-top: 50px;
+  margin-bottom: 40px;
 }
