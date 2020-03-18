@@ -1,0 +1,10 @@
+.important{
+  color: red;
+  font-style: italic;
+}
+
+.moreImportant{
+  color: green;
+  font-family: Arial;
+  font-size: medium;
+}
