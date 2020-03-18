@@ -2,8 +2,12 @@
   width: 30%;
   float: right;
   background-color: green;
+  border: 6px solid goldenrod;
+  padding: 8px;
+  margin: 14px;
 }
 
 img{
   float: left;
+  padding: 10px;
 }
