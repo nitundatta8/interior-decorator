@@ -1,0 +1,15 @@
+.important{
+  color: green;
+  background-color: grey;
+  font-style: italic
+}
+
+.someClass{
+  color: red;
+  background-color: khaki;
+}
+
+.infoClass{
+  color:yellowgreen;
+  font-style: inherit;
+}
