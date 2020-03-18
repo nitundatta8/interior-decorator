@@ -1,5 +1,9 @@
 .sidebar {
   width: 30%;
   float: right;
-  background-color: blueviolet;
+  background-color: green;
+}
+
+img{
+  float: left;
 }
